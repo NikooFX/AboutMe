@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NikooFX
 - 👀 I’m interested in Back-end technologies
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on back-end projects
 - 📫 You can rich me at nikoofx@gmail.com and +994554478402 whatsapp number.
 
